@@ -4,10 +4,7 @@
 
 > Accelerate your onchain creativity with the Build Onchain Apps Template. ☕️
 
-[![GitHub contributors](https://img.shields.io/github/contributors/coinbase/build-onchain-apps?color=3498DB)](https://github.com/coinbase/build-onchain-apps/graphs/contributors) [![GitHub Stars](https://img.shields.io/github/stars/coinbase/build-onchain-apps.svg?color=3498DB)](https://github.com/coinbase/build-onchain-apps/stargazers) [![GitHub](https://img.shields.io/github/license/coinbase/build-onchain-apps?color=3498DB)](https://github.com/coinbase/build-onchain-apps/blob/main/LICENSE)
-
-<br />
-
+[![GitHub contributors](https://img.shields.io/github/contributors/coinbase/build-onchain-apps?color=3498DB)](https://github.com/coinbase/build-onchain-apps/graphs/contributors) [![GitHub Stars](https://img.shields.io/github/stars/coinbase/build-onchain-apps.svg?color=34l
 **Build Onchain Apps Template** (aka BOAT ⛵️) will help you save weeks of initial app setup and the hassle of integrating onchain components with web2 infrastructure. 🌊
 
 We do this by taking an opinionated approach to streamlining early decisions you must make when building an onchain app.
